@@ -1,0 +1,11 @@
+python==3.10.5
+
+python-dotenv
+flask
+openai==1.35.15
+requests
+streamlit
+beautifulsoup4
+langchain
+urllib3
+dotenv
