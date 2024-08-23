@@ -4,6 +4,9 @@
 
 This project implements an advanced question-answering system that leverages Large Language Models (LLMs) and web scraping to provide accurate and up-to-date answers. By combining the power of language models with real-time web data, this system offers a unique approach to information retrieval and question answering.
 
+## DEMO
+https://github.com/user-attachments/assets/01cbfcc1-cf67-445d-b492-a8198b6580aa
+
 ## Features
 
 - **Real-time Web Search**: Utilizes Google Search  to find relevant web pages for each query.
